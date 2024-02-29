@@ -1,2 +1,2 @@
 # CDDTF
-Once the paper is published, we will upload the code.
+Once the paper is accepted we will immediately open source all the code of the project. 
